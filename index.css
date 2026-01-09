@@ -1,0 +1,73 @@
+* {
+  background-color: lightgoldenrodyellow;
+  font-family: 'Fauna One', serif;
+  font-size: 10pt;
+}
+
+/* main {
+  background-color: rgb(255, 255, 255);
+} */
+
+p {
+  background-color: rgb(255, 255, 255);
+}
+
+h1, h2 {
+  font-family: Cinzel, serif;
+}
+
+h2 {
+  background-color: rgb(255, 255, 255);
+  font-size: 18pt;
+  margin: 5pt 0pt 5pt 0pt;
+}
+
+.markdown {
+  font-size: 8pt;
+  color:rgb(167, 167, 167);
+  background-color: rgb(255, 255, 255);
+}
+
+p.price {
+  color: green;
+  font-weight: bold;
+  font-size: 12pt;
+  margin: 20pt 0pt 0pt 0pt;
+}
+
+button {
+  border-radius: 5pt;
+  font-size: 8pt;
+  height: 20pt;
+  width: ;
+  background-color: rgb(66, 121, 224);
+  color: white;
+  margin: 7pt 0pt 5pt 8pt;
+}
+
+h1 {
+  font-size: 30pt;
+  margin: 0px 0px 2px 0px;
+}
+
+header {
+  margin: 10px 0px 10px 0px;
+}
+
+.blurb {
+  margin: 0px 0px 10px 0px;
+}
+
+article {
+  width: 400px;
+  height: 220px;
+  border: 2px black solid;
+  border-radius: 5px;
+  padding-left: 5px;
+  margin-top: 10px;
+}
+
+article.back {
+  
+  background-color: rgb(255, 255, 255);
+}
